@@ -21,15 +21,3 @@ Schröder, M., Lutter, M., & <b>Habicht, I. M.</b> (2021). Publishing, signaling
 Else
 ##############
 <b>Habicht, Isabel M.</b> (2022): Gender differences in the determinants of becoming a tenured professor, obtaining a habilitation, research productivity, and leaving academia in Germany from 1980 − 2019. <i>Doctoral thesis</i>.
-
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}

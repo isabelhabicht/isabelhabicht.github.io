@@ -8,9 +8,9 @@ author_profile: true
 
 <b>Habicht, Isabel M.</b> (2023): Cross-country comparison: does social democratic party power increase an employee’s perceived employability? <i>Frontiers in Sociology</i> 8:1212553. <a href="https://doi.org/10.3389/fsoc.2023.1212553">DOI</a> & <a href="https://osf.io/xfndq/">Data</a>.
 
-<b>Habicht, Isabel M.</b> (2022): Do mothers get lost at the postdoc stage? Event history analysis of psychologists at German universities (1980-2019). <i>Higher Education</i>. <a href="https://doi.org/10.1007/s10734-022-00949-y">DOI</a> & <a href="https://osf.io/ev8mx/">Data</a>.
-
 <b>Habicht, Isabel M.</b>; Schröder, Martin; Lutter, Mark (forthcoming): Female advantage in German sociology. Does accounting for the "leaky pipeline" effect in becoming a tenured university professor make a difference? <i>Soziale Welt</i>. <a href="https://osf.io/ev8mx/">Data</a>. 
+
+<b>Habicht, Isabel M.</b> (2022): Do mothers get lost at the postdoc stage? Event history analysis of psychologists at German universities (1980-2019). <i>Higher Education</i>. <a href="https://doi.org/10.1007/s10734-022-00949-y">DOI</a> & <a href="https://osf.io/ev8mx/">Data</a>.
 
 Lutter, M., <b>Habicht, I. M.</b>, & Schröder, M. (2022). Gender differences in the determinants of becoming a professor in Germany. An event history analysis of academic psychologists from 1980 to 2019. <i>Research Policy</i>, 51(6), 104506. <a href="https://doi.org/10.1016/j.respol.2022.104506">DOI</a>. 
 

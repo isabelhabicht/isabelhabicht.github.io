@@ -115,10 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  social:
-  type             : OSF
-  name             : # If the user or organization name differs from the site's name
-  links:           : "https://osf.io/b4mpr/"
 
 
 # Reading Files

@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<br>
-<br>
+
 Peer-reviewed Publications
 ======
 <b>Habicht, Isabel M.</b> (2022): Do mothers get lost at the postdoc stage? Event history analysis of psychologists at German universities (1980-2019). <i>Higher Education</i>. https://doi.org/10.1007/s10734-022-00949-y

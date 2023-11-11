@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 <h2>Peer-reviewed Publications</h2>
-======
 <b>Habicht, Isabel M.</b> (2022): Do mothers get lost at the postdoc stage? Event history analysis of psychologists at German universities (1980-2019). <i>Higher Education</i>. https://doi.org/10.1007/s10734-022-00949-y
 
 <b>Habicht, Isabel M.</b>; Schröder, Martin; Lutter, Mark (forthcoming): Female advantage in German sociology. Does accounting for the "leaky pipeline" effect in becoming a tenured university professor make a difference? <i>Soziale Welt</i>.  
@@ -19,7 +18,6 @@ Schröder, M., Lutter, M., & <b>Habicht, I. M.</b> (2021). Publishing, signaling
 <br>
 
 <h2>Else</h2>
-======
 <b>Habicht, Isabel M.</b> (2022): Gender differences in the determinants of becoming a tenured professor, obtaining a habilitation, research productivity, and leaving academia in Germany from 1980 − 2019. <i>Doctoral thesis</i>.
 
 

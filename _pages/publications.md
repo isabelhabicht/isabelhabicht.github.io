@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h2>Peer-reviewed Publications</h2>
+Peer-reviewed Publications
+########
 <b>Habicht, Isabel M.</b> (2022): Do mothers get lost at the postdoc stage? Event history analysis of psychologists at German universities (1980-2019). <i>Higher Education</i>. https://doi.org/10.1007/s10734-022-00949-y
 
 <b>Habicht, Isabel M.</b>; Schröder, Martin; Lutter, Mark (forthcoming): Female advantage in German sociology. Does accounting for the "leaky pipeline" effect in becoming a tenured university professor make a difference? <i>Soziale Welt</i>.  
@@ -13,11 +14,12 @@ Lutter, M., <b>Habicht, I. M.</b>, & Schröder, M. (2022). Gender differences in
 
 <b>Habicht, I.M.</b>, Lutter, M. & Schröder, M. (2021). How human capital, universities of excellence, third party funding, mobility and gender explain productivity in German political science. <i>Scientometrics</i>. https://doi.org/10.1007/s11192-021-04175-8 
 
-Schröder, M., Lutter, M., & <b>Habicht, I. M.</b> (2021). Publishing, signaling, social capital, and gender: Determinants of becoming a tenured professor in German political science. <i>Plos one</i>, 16(1), e0243514. <a href="{{https://doi.org/10.1371/journal.pone.0243514}}">DOI</a> & <a href="{{https://osf.io/afrxk/}}">Data</a>.
+Schröder, M., Lutter, M., & <b>Habicht, I. M.</b> (2021). Publishing, signaling, social capital, and gender: Determinants of becoming a tenured professor in German political science. <i>Plos one</i>, 16(1), e0243514. <a href="https://doi.org/10.1371/journal.pone.0243514">DOI</a> & <a href="https://osf.io/afrxk/">Data</a>.
 <br>
 <br>
 
-<h2>Else</h2>
+Else
+##############
 <b>Habicht, Isabel M.</b> (2022): Gender differences in the determinants of becoming a tenured professor, obtaining a habilitation, research productivity, and leaving academia in Germany from 1980 − 2019. <i>Doctoral thesis</i>.
 
 

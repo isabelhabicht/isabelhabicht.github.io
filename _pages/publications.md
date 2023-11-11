@@ -15,7 +15,7 @@ Lutter, M., <b>Habicht, I. M.</b>, & Schröder, M. (2022). Gender differences in
 
 Schröder, M., Lutter, M., & <b>Habicht, I. M.</b> (2021). Publishing, signaling, social capital, and gender: Determinants of becoming a tenured professor in German political science. <i>Plos one</i>, 16(1), e0243514. <a href="{{https://doi.org/10.1371/journal.pone.0243514}}">DOI</a> & <a href="{{https://osf.io/afrxk/}}">Data</a>.
 
-======
+
 Else
 ======
 <b>Habicht, Isabel M.</b> (2022): Gender differences in the determinants of becoming a tenured professor, obtaining a habilitation, research productivity, and leaving academia in Germany from 1980 − 2019. <i>Doctoral thesis</i>.

@@ -6,6 +6,9 @@ author_profile: true
 ---
 <h3>Journal articles (peer-review)</h3>
 
+You can find the replication files of my articles as well as preregistrations of my studies on <a href="https://osf.io/b4mpr/">OSF</a>. 
+
+
 <b>Habicht, Isabel M.</b> (2023): Cross-country comparison: does social democratic party power increase an employee’s perceived employability? <i>Frontiers in Sociology</i> 8:1212553. <a href="https://doi.org/10.3389/fsoc.2023.1212553">DOI</a> & <a href="https://osf.io/xfndq/">Data</a>.
 
 <b>Habicht, Isabel M.</b>; Schröder, Martin; Lutter, Mark (forthcoming): Female advantage in German sociology. Does accounting for the "leaky pipeline" effect in becoming a tenured university professor make a difference? <i>Soziale Welt</i>. <a href="https://osf.io/ev8mx/">Data</a>. 

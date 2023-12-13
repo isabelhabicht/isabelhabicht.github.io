@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h3>Peer-reviewed Publications</h3>
+<h3>Journal articles (peer-review)</h3>
 
 <b>Habicht, Isabel M.</b> (2023): Cross-country comparison: does social democratic party power increase an employee’s perceived employability? <i>Frontiers in Sociology</i> 8:1212553. <a href="https://doi.org/10.3389/fsoc.2023.1212553">DOI</a> & <a href="https://osf.io/xfndq/">Data</a>.
 

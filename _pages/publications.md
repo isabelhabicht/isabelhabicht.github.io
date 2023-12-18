@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h3>Journal articles (peer-review)</h3>
+<h2>Journal articles (peer-review)</h2>
 
 <i>You can find the replication files of my articles as well as preregistrations of my studies on <a href="https://osf.io/b4mpr/">OSF</a>.</i>
 <br>
@@ -24,5 +24,5 @@ Schröder, M., Lutter, M., & <b>Habicht, I. M.</b> (2021). Publishing, signaling
 <br>
 <br>
 
-<h3>Thesis</h3>
+<h2>Thesis</h2>
 <b>Habicht, Isabel M.</b> (2022): Gender differences in the determinants of becoming a tenured professor, obtaining a habilitation, research productivity, and leaving academia in Germany from 1980 − 2019. <i>Doctoral thesis</i>.

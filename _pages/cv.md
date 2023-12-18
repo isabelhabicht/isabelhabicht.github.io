@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can find my
-![CV](/files/CV_Habicht_Git.pdf)
+You can find my 
+[CV](https://github.com/isabelhabicht/isabelhabicht.github.io/files/13705121/CV_Habicht_Git.pdf)
 here. 

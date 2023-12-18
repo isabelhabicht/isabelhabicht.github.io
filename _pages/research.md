@@ -12,3 +12,18 @@ To present some preliminary findings, the descriptive results suggest a more equ
 <br>
 <img src="/files/Histogram_rec.png" alt="/files/Histogram_rec" width="500"/>  
 <i>Figure: Responses on the fair allocation of parental leave between wife and husband.</i>
+<br>
+<br>
+<h2>Academic career tracks (2018 – 2022)</h2>
+In a BMBF-funded project by Mark Lutter (University of Wuppertal) and Martin Schröder (Saarland University), I studied gender differences in academic career tracks. We built a unique panel data set of all social scientists (sociology, psychology, political science) as well as economists at German universities to study the leaky pipeline. With multiple data collection points and a full sample coverage, we are able to account for selection effects (survivorship bias) in the academic pipeline as well as dropout rates. While the main results can be seen in my <a href="https://isabelhabicht.github.io/publications/">publication list</a>, the most interesting findings are:<br> <br>
+
+<b>Tenured professorships</b><br>
+We did not find lower chances of women becoming tenured professors across all scientific fields, as we expected from the federal statistics supporting the leaky pipeline – with one exception in economics, where we find an insignificant effect for women's slightly lower chances of tenure. <br> <br>
+<b>Dropout rates</b><br>
+In sociology, we found that women were more likely to drop out of academia than men, holding publication output and CV information constant. Descriptive statistics also show that female sociologists are more likely to leave academia at the pre-doc stage, while male sociologists tend to leave academia at the post-doc stage. While we do not find productivity differences between academic leavers and remainers by gender (less productive women and men tend to leave academia relative to their more productive counterparts), we do find that mothers are more likely to leave academia as compared to fathers. Neither, however, explains women's higher risk of leaving academia when multivariate regression models are applied.<br> <br>
+<b>Earlier career stages</b> <br>
+In psychology, we found that women are at a disadvantage in obtaining a habilitation, which is still the main route in psychology to qualify for a tenured professorship. Again, this result cannot be explained by having children or by differences in CVs compared to male psychologists. <br>
+However, these findings suggest that gender barriers in academia need to be considered and studied at all career stages, as they may lead to an accumulation of (dis)advantages in academia. 
+
+
+

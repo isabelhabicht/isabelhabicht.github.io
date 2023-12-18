@@ -22,8 +22,5 @@ We did not find lower chances of women becoming tenured professors across all sc
 <b>Dropout rates</b><br>
 In sociology, we found that women were more likely to drop out of academia than men, holding publication output and CV information constant. Descriptive statistics also show that female sociologists are more likely to leave academia at the pre-doc stage, while male sociologists tend to leave academia at the post-doc stage. While we do not find productivity differences between academic leavers and remainers by gender (less productive women and men tend to leave academia relative to their more productive counterparts), we do find that mothers are more likely to leave academia as compared to fathers. Neither, however, explains women's higher risk of leaving academia when multivariate regression models are applied.<br> <br>
 <b>Earlier career stages</b> <br>
-In psychology, we found that women are at a disadvantage in obtaining a habilitation, which is still the main route in psychology to qualify for a tenured professorship. Again, this result cannot be explained by having children or by differences in CVs compared to male psychologists. <br>
+In psychology, we found that women are at a disadvantage in obtaining a habilitation, which is still the main route in psychology to qualify for a tenured professorship. Again, this result cannot be explained by having children or by differences in CVs compared to male psychologists. <br> <br>
 However, these findings suggest that gender barriers in academia need to be considered and studied at all career stages, as they may lead to an accumulation of (dis)advantages in academia. 
-
-
-

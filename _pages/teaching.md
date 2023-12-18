@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<h1>Teaching</h1>
-
 <h2>University of Wuppertal</h2>
 
 | Semester      |        |                                                              |

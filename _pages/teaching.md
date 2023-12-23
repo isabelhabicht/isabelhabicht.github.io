@@ -22,3 +22,6 @@ author_profile: true
 | Winter    | 2021   | Teaching research project – Academic career paths (B.A.)                          |
 | Winter    | 2020   | Introduction to Sociology (B.A.)                         |
 | Summer    | 2021   | Introduction to Sociology (B.A.)             |
+
+<br> 
+Currently, I am also a student advisor for Sociology and Social Sciences and a member of the Sociology Examination Board (BA and MA) at the University of Wuppertal. I have been supervising BA and MA theses since 2021. 

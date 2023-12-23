@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 You can find my 
-[CV](https://github.com/isabelhabicht/isabelhabicht.github.io/files/13705121/CV_Habicht_Git.pdf)
+[CV](https://github.com/isabelhabicht/isabelhabicht.github.io/files/13705121/CV_Habicht_Git_rec.pdf)
 here.
 
 

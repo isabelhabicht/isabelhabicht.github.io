@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Isabel M. Habicht"
-  avatar           : "files\profile.png"
+  avatar           : "profile.png"
   bio              : "Social Scientist"
   location         : "University of Wuppertal"
   employer         :

@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://isabelhabicht.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "isabelhabicht/isabelhabicht.github.io"
-teaser                   :  "500x300.png"
+teaser                   :  # "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Isabel M. Habicht"
-  avatar           : # "/images/profile.png"
+  avatar           : "profile.png"
   bio              : "Social Scientist"
   location         : "University of Wuppertal"
   employer         :

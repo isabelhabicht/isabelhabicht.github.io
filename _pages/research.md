@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2>Trade-offs between work and family (2022 onwards)</h2>
+<h2>Work and family dynamics (2022 onwards)</h2>
 My current research focuses on bridging the gap between labor market structures and family decisions (work-family trade-offs in parental leave decisions). This research will build-on several topics from different perspectives (micro: family, meso: organization of labor markets, macro: countries) to sufficiently explore family and work dynamics.<br> <br>
 
 <b>Parental leave uptake</b> <br>

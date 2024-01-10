@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2>Work and family dynamics (2022 onwards)</h2>
-My current research focuses on bridging the gap between labor market structures and family decisions (work-family trade-offs in parental leave decisions). This research will build-on several topics from different perspectives (micro: family, meso: organization of labor markets, macro: countries) to sufficiently explore family and work dynamics.<br> <br>
+My current research focuses on bridging the gap between labor market structures and family decisions. This research will build-on several topics from different perspectives (micro: family, meso: organization of labor markets, macro: countries) to sufficiently explore family and work dynamics.<br> <br>
 
 <b>Parental leave uptake</b> <br>
 My first milestone is to study how parental leave is fairly allocated between couples. In Germany in 2022, mothers take 11.6 months of parental leave, while fathers take only 2.8 months, resulting in a gender gap of <b>76 percentage points</b>. Beyond administrative statistics, I am interested in justice principles underlying parental leave allocations. To investigate distributive justice principles in parental leave decisions, I use a multifactorial survey design that manipulates various characteristics of dual-earner couples (gender, income, occupation, and job satisfaction). The study has been preregistered on <a href="https://osf.io/87qup">OSF</a> and was conducted in November 2023. <br> <br>

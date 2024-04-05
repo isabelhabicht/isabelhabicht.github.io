@@ -24,5 +24,18 @@ Schröder, M., Lutter, M., & <b>Habicht, I. M.</b> (2021). Publishing, signaling
 <br>
 <br>
 
+<h2>Work in progress</h2>
+<b>Habicht, Isabel M.</b>: Justice Principles in the Allocation of Parental Leave Within Couples. <a href="https://osf.io/8krjc/">Preregistration</a>.
+<br>
+<br>
+Thomas Heinze, <b>Isabel M. Habicht</b>, Paul Eberhardt, Dirk Tunger: Field size as a predictor of “excellence.” The selection of subject fields in Germany’s Excellence Initiative.  <a href="https://www.biorxiv.org/content/10.1101/2024.03.06.583816v1">Preprint</a>.
+<br>
+<br>
+<b>Habicht, Isabel M.</b>: How do policy regimes foster (wo)men’s work-family preferences as reflected in parental leave decisions? <i>JFK Memorial Fellowship at the Center for European Studies (CES) at Harvard University in 2024/2025.</i>
+<br>
+<br>
+Meta-analysis on gender and parenthood discrimination in hiring situations (together with Jessica Daikeler, Eva Zschirnt and Britta Gauly). 
+<br>
+<br>
 <h2>Thesis</h2>
 <b>Habicht, Isabel M.</b> (2022): Gender differences in the determinants of becoming a tenured professor, obtaining a habilitation, research productivity, and leaving academia in Germany from 1980 − 2019. <i>Doctoral thesis</i>.

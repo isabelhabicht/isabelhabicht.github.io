@@ -10,7 +10,7 @@ author_profile: true
 <br>
 <br>
 
-<b>Habicht, I. M.</b>, Schröder, M., & Lutter, M. (2024). Female advantage in German sociology: Does accounting for the “leaky pipeline” effect in becoming a tenured university professor make a difference? In C. Gross & S. Jaksztat (Eds.), Career Paths Inside and Outside Academia (pp. 407–456). Nomos Verlagsgesellschaft mbH & Co. KG. <a href="doi.org/10.5771/9783748925590-407">DOI</a> & <a href="https://osf.io/ev8mx/">Data</a>. 
+<b>Habicht, I. M.</b>, Schröder, M., & Lutter, M. (2024). Female advantage in German sociology: Does accounting for the “leaky pipeline” effect in becoming a tenured university professor make a difference? In C. Gross & S. Jaksztat (Eds.), Career Paths Inside and Outside Academia (pp. 407–456). Nomos Verlagsgesellschaft mbH & Co. KG. <a href="https://doi.org/10.5771/9783748925590-407">DOI</a> & <a href="https://osf.io/ev8mx/">Data</a>. 
 
 <b>Habicht, Isabel M.</b> (2023): Cross-country comparison: does social democratic party power increase an employee’s perceived employability? <i>Frontiers in Sociology</i> 8:1212553. <a href="https://doi.org/10.3389/fsoc.2023.1212553">DOI</a> & <a href="https://osf.io/xfndq/">Data</a>.
 

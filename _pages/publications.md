@@ -34,6 +34,9 @@ Thomas Heinze, <b>Isabel M. Habicht</b>, Paul Eberhardt, Dirk Tunger: Field size
 <b>Habicht, Isabel M.</b>: How do policy regimes foster (wo)men’s work-family preferences as reflected in parental leave decisions? <i>JFK Memorial Fellowship at the Center for European Studies (CES) at Harvard University in 2024/2025.</i>
 <br>
 <br>
+Wunsch, Lisa, <b>Isabel M. Habicht</b>, Martin Schröder, Mark Lutter: Does Specialization Pay Off? Analyzing the Link Between Research Focus and Academic Career Success. 
+<br>
+<br>
 Meta-analysis on gender and parenthood discrimination in hiring situations (together with Jessica Daikeler, Eva Zschirnt and Britta Gauly). 
 <br>
 <br>

@@ -34,7 +34,7 @@ Schröder, M., Lutter, M., & <b>Habicht, I. M.</b> (2021). Publishing, signaling
 <b>Habicht, Isabel M.</b>, Britta Gauly, Eva Zschirnt, Jessica Daikeler: Meta-analysis on gender and parenthood discrimination in hiring situations. 
 <br>
 <br>
-<b>Habicht, Isabel M.</b> & Daria Tisch: Disentangling the Causal Effect of Gender: Conceptualization and Methodological Approaches. (Special Issue of KZfSS “Explanation and Causality in the Social Sciences”).  
+<b>Habicht, Isabel M.</b> & Daria Tisch: Disentangling the Causal Effect of Gender: Conceptualization and Methodological Approaches (Special Issue of KZfSS “Explanation and Causality in the Social Sciences”).
 <br>
 <br>
 Thomas Heinze, <b>Isabel M. Habicht</b>, Paul Eberhardt, Dirk Tunger: Field size as a predictor of “excellence.” The selection of subject fields in Germany’s Excellence Initiative.  <a href="https://www.biorxiv.org/content/10.1101/2024.03.06.583816v1">Preprint</a>.

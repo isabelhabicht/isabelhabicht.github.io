@@ -30,7 +30,7 @@ Looking forward to connecting with fellow researchers, collaborators, and curiou
 <link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css" />
 <div id="embedbsky-com-timeline-embed"></div>
 <script>
-  let containerWidth = 0, containerHeight = 300;
+  let containerWidth = 0, containerHeight = 600;
   const getHtml = async t => {
     const e = await fetch(t);
     return 200 !== e.status

@@ -46,8 +46,11 @@ body,
   font-family: 'Lora', serif !important;
 }
 
-.page__content p {
-  margin-bottom: 1.25em;
-  line-height: 1.6;
+body p,
+body li,
+.page__content p,
+.page__content li {
   text-align: justify !important;
+  line-height: 1.6;
+  margin-bottom: 1.25em;
 }

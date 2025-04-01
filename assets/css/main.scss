@@ -54,3 +54,9 @@ body li,
   line-height: 1.6;
   margin-bottom: 1.25em;
 }
+
+body {
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}

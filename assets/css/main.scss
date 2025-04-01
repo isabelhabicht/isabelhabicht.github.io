@@ -40,7 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-body {
-  font-family: 'EB Garamond', serif;
+html,
+body,
+.page__content {
+  font-family: 'EB Garamond', serif !important;
 }
-

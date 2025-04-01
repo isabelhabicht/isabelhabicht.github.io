@@ -5,24 +5,79 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2>Work and family dynamics (2022 onwards)</h2>
-My current research focuses on bridging the gap between labor market structures and family decisions. This research will build on several topics from different perspectives (micro: family, meso: organization of labor markets, macro: countries) to sufficiently explore family and work dynamics.<br> <br>
+Welcome! My research explores how gender and social inequality unfold across different spheres of life. I combine quantitative methods, experimental designs, and comparative approaches to understand how institutions shape individual outcomes in three main areas:
 
-<b>Parental leave uptake</b> <br>
-My first milestone is to study how parental leave is fairly allocated between couples. In Germany in 2022, mothers took 11.6 months of parental leave, while fathers only took 2.8 months, resulting in a gender gap of <b>76 percentage points</b>. To investigate distributive justice principles in parental leave decisions, I use a multifactorial survey design that manipulates various characteristics of dual-earner couples (gender, income, occupation, and job satisfaction). The study has been preregistered on <a href="https://osf.io/87qup">OSF</a> and was conducted in November 2023. <br> <br>
-To present some preliminary findings, the descriptive results suggest a more equal distribution of parental leave uptake between couples (6.6 months for mothers, 5.9 months for fathers). However, the experimental study of respondents living in Germany supports significant evidence that respondents accept an inequality of only <b>11 percentage points</b> to the detriment of mothers in the allocation of parental leave within couples in order to perceive it as just. <br><br>
+1. [**Work and Family Dynamics**](#work-and-family-dynamics)  
+2. [**Discrimination in the Labor Market**](#discrimination-in-the-labor-market)  
+3. [**Academic Career Tracks**](#academic-career-tracks)
+
+
+---
+
+<h2 id="work-and-family-dynamics">1. Work and Family Dynamics</h2>
+
+How do policy structures and labor market institutions influence gendered family decisions? My current research bridges micro-level preferences, meso-level labor market organization, and macro-level welfare regimes to explore how work and family intersect.
+
+### Parental Leave Uptake and Justice Principles
+
+My current project investigates how parental leave is fairly allocated between couples in Germany. In 2022, mothers took an average of 11.6 months of parental leave, compared to just 2.8 months for fathers — a gender gap of **76 percentage points**.
+
+To study distributive justice perceptions, I conducted a factorial survey experiment (preregistered on <a href="https://osf.io/87qup" target="_blank">OSF</a>) with vignettes that vary partner characteristics (gender, income, occupation, job satisfaction). The study was fielded in November 2023.
+
+**Preliminary findings**:
+- Respondents supported a nearly equal division: 6.6 months for mothers vs. 5.9 months for fathers.
+- However, the **perceived just** allocation tolerated an **11 percentage point gap**, favoring fathers — suggesting a justice threshold before inequality is seen as unjust.
+
 <br>
-<img src="/files/Histogram_rec.png" alt="/files/Histogram_rec" width="500"/>  
+
+<img src="/files/Histogram_rec.png" alt="Histogram of fair parental leave responses" width="500"/>  
 <i>Figure: Responses on the fair allocation of parental leave between wife and husband.</i>
-<br>
-<br>
-<h2>Academic career tracks (2018 – 2022)</h2>
-In a BMBF-funded project by Mark Lutter (University of Wuppertal) and Martin Schröder (Saarland University), I studied gender differences in academic career tracks. We built a unique panel data set of all social scientists (sociology, psychology, political science) as well as economists at German universities to study the leaky pipeline. With multiple data collection points and a full sample coverage, we are able to account for selection effects (survivorship bias) in the academic pipeline as well as dropout rates. While the main results can be seen in my <a href="https://isabelhabicht.github.io/publications/">publication list</a>, the most interesting findings are:<br> <br>
 
-<b>Who becomes a tenured professor?</b><br>
-We do not find lower chances of women becoming tenured professors across <i>all scientific fields</i>, as we expected from the federal statistics supporting the leaky pipeline – with one exception in economics, where we find an insignificant effect for women's slightly lower chances of tenure. <br> <br>
-<b>Who leaves academia?</b><br>
-In <i>sociology</i>, we find that women were more likely to drop out of academia than men, holding publication output and CV information constant. Descriptive statistics also show that female sociologists are more likely to leave academia at the pre-doc stage, while male sociologists tend to leave academia at the post-doc stage. While we do not find productivity differences between academic leavers and remainers by gender (less productive women and men tend to leave academia relative to their more productive counterparts), we do find that mothers are more likely to leave academia as compared to fathers. Neither, however, explains women's higher risk of leaving academia when multivariate regression models are applied.<br> <br>
-<b>What about earlier career stages?</b> <br>
-In <i>psychology</i>, we find that women are at a disadvantage in obtaining a habilitation, which is still the main route in psychology to qualify for a tenured professorship. Again, this result cannot be explained by having children or by differences in CVs compared to male psychologists. <br> <br>
-However, these findings suggest that gender barriers in academia need to be considered and studied at all career stages, as they may lead to an accumulation of (dis)advantages in academia. 
+
+
+---
+
+<h2 id="discrimination-in-the-labor-market">2. Discrimination in the Labor Market</h2>
+
+What role does parenthood play in shaping labor market outcomes — and does it intersect with gender to create additional barriers? In this meta-analysis, we synthesize existing evidence on hiring discrimination against parents to understand how family roles influence professional opportunities.
+
+### Gender, Parenthood, and Hiring Discrimination: A Meta-Analysis
+
+While field experiments have extensively documented discrimination in hiring — especially by gender and ethnicity — the role of **parenthood**, particularly when intersecting with gender, has received less attention. This project addresses that gap by synthesizing evidence from **20 correspondence audit studies** (*n = 208 experimental conditions*) on hiring discrimination against parents.
+
+The study investigates:
+- Whether parents face disadvantages compared to childless applicants,
+- Whether discrimination is more prevalent among mothers, and
+- How discrimination varies by national family policies, occupational characteristics, and time.
+
+**Preliminary findings**:
+- Hiring discrimination against parents — particularly mothers — has declined over time and is no longer statistically significant in the most recent studies.
+
+
+
+---
+
+<h2 id="academic-career-tracks">3. Academic Career Tracks</h2>
+
+In a BMBF-funded project with Mark Lutter and Martin Schröder, we created a comprehensive panel dataset of all social scientists and economists at German universities. The goal: understand gendered dynamics in academic careers, from early stages to tenure.
+
+### Who Becomes a Tenured Professor?
+
+We find **no significant gender differences** in tenure outcomes across most disciplines — contrary to federal statistics suggesting a leaky pipeline. The exception: in economics, women show slightly lower (but statistically insignificant) chances of tenure.
+
+### Who Leaves Academia?
+
+In **sociology**, women are more likely to leave academia than men — even when controlling for productivity and CV characteristics.  
+- Women often exit during the **pre-doc stage**, while men leave more frequently during the **post-doc stage**.
+- Parenthood plays a role: **mothers** are more likely to leave than **fathers**, though this doesn’t fully explain the gender gap in attrition.
+
+### Early Career Barriers
+
+In **psychology**, women face disadvantages in obtaining a habilitation — a key qualification for professorships — independent of parental status or CV strength.  
+
+---
+
+**Conclusion**:  
+Gender disparities in academic careers manifest at different stages and in discipline-specific ways. Our research shows that gender inequality must be studied as a cumulative process, not just an endpoint.
+
+---

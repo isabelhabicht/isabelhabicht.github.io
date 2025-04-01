@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-As a *social scientist* driven by a fascination for data and quantitative methods, I explore how societal structures shape opportunities in work, academia, and family life. My research interests include labor market sociology, gender inequality, higher education research, academic careers, and work-family dynamics. My work has appeared in leading journals such as PLOS ONE, Research Policy, Higher Education, Scientometrics, Studies in Higher Education, and Frontiers in Sociology, among others. You can explore some of my <a href="https://isabelhabicht.github.io/research/">ongoing work here</a>, and browse my <a href="https://isabelhabicht.github.io/publications/">published articles here</a>. 
+As a *social scientist* driven by a fascination for data and quantitative methods, I explore how societal structures shape opportunities in work, academia, and family life. My research interests include labor market sociology, gender inequality, higher education research, academic careers, and work-family dynamics. <br>
+My work has appeared in leading journals such as <i>PLOS ONE</i>, <i>Research Policy</i>, <i>Higher Education</i>, <i>Scientometrics</i>, <i>Studies in Higher Education</i>, and <i>Frontiers in Sociology</i>, among others. 
+<br>
+You can explore some of my <a href="https://isabelhabicht.github.io/research/">ongoing work here</a>, and browse my <a href="https://isabelhabicht.github.io/publications/">published articles here</a>. 
 <br><br>
 I work at the <a href="https://www.org-soz.uni-wuppertal.de/de/team/detail/habicht/">University of Wuppertal</a> as *Akademische Rätin für quantitative Methoden*. But I am currently on academic leave until June 2025 as the <strong>JFK Memorial Fellow</strong> at the <a href="https://ces.fas.harvard.edu/people/isabel-habicht">Minda de Gunzburg Center for European Studies (CES)</a> at Harvard University. At CES, I examine the research question:  
 <i>"How do policy regimes foster (wo)men's work-family preferences as reflected in parental leave decisions?"</i>  

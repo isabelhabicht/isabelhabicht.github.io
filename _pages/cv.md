@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can find my 
-[CV](https://github.com/user-attachments/files/19556134/CV_Habicht_Git.pdf)
-here.
-
 <br><br>
 
 <embed src="https://github.com/user-attachments/files/19556134/CV_Habicht_Git.pdf" type="application/pdf" width="100%" height="900px" />

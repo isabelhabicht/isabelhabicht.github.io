@@ -42,14 +42,20 @@
 
 html,
 body,
-.page__content {
+.page__content,
+.archive,
+.archive__item {
   font-family: 'Lora', serif !important;
 }
 
 body p,
 body li,
 .page__content p,
-.page__content li {
+.page__content li,
+.archive p,
+.archive li,
+.archive__item p,
+.archive__item li {
   text-align: justify !important;
   line-height: 1.6;
   margin-bottom: 1.25em;

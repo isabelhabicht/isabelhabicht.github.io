@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-As a *social scientist* driven by a fascination for data and quantitative methods, I explore how societal structures shape opportunities in work, academia, and family life. My research interests include labor market sociology, gender inequality, higher education research, academic careers, and work-family dynamics.  
-<br>
-I work at the <a href="https://www.org-soz.uni-wuppertal.de/de/team/detail/habicht/">University of Wuppertal</a> as *Akademische Rätin für quantitative Methoden*.  
-You can explore some of my <a href="https://isabelhabicht.github.io/research/">ongoing work here</a>, and browse my <a href="https://isabelhabicht.github.io/publications/">published articles here</a>.  
-<br>
-I am currently on academic leave until June 2025 as the <strong>JFK Memorial Fellow</strong> at the <a href="https://ces.fas.harvard.edu/people/isabel-habicht">Minda de Gunzburg Center for European Studies (CES)</a> at Harvard University. At CES, I examine the research question:  
+As a *social scientist* driven by a fascination for data and quantitative methods, I explore how societal structures shape opportunities in work, academia, and family life. My research interests include labor market sociology, gender inequality, higher education research, academic careers, and work-family dynamics. My work has appeared in leading journals such as PLOS ONE, Research Policy, Higher Education, Scientometrics, Studies in Higher Education, and Frontiers in Sociology, among others. You can explore some of my <a href="https://isabelhabicht.github.io/research/">ongoing work here</a>, and browse my <a href="https://isabelhabicht.github.io/publications/">published articles here</a>. 
+<br><br>
+I work at the <a href="https://www.org-soz.uni-wuppertal.de/de/team/detail/habicht/">University of Wuppertal</a> as *Akademische Rätin für quantitative Methoden*. But I am currently on academic leave until June 2025 as the <strong>JFK Memorial Fellow</strong> at the <a href="https://ces.fas.harvard.edu/people/isabel-habicht">Minda de Gunzburg Center for European Studies (CES)</a> at Harvard University. At CES, I examine the research question:  
 <i>"How do policy regimes foster (wo)men's work-family preferences as reflected in parental leave decisions?"</i>  
 This project investigates how national policy structures influence gendered preferences and decision-making — with broader implications for understanding persistent inequalities in modern societies.  
 <br>

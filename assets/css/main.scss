@@ -40,6 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-p, li {
-  text-align: justify;
+.page__content p,
+.page__content li {
+  text-align: justify !important;
 }

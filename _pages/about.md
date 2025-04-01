@@ -23,14 +23,14 @@ Looking forward to connecting with fellow researchers, collaborators, and curiou
 ## News
 
 🗽 I’m excited to be participating in the <a href="https://www.populationassociation.org/paa2025/home" target="_blank">Population Association of America (PAA) 2025 Annual Meeting</a>, which will take place from **April 2–5, 2025**, in Washington, D.C.! If you're attending, feel free to reach out — I’d love to connect.
-
+<br><br>
 ## Bluesky Update
 {% raw %}
 <!-- Bluesky feed embed -->
 <link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css" />
 <div id="embedbsky-com-timeline-embed"></div>
 <script>
-  let containerWidth = 0, containerHeight = 600;
+  let containerWidth = 0, containerHeight = 300;
   const getHtml = async t => {
     const e = await fetch(t);
     return 200 !== e.status

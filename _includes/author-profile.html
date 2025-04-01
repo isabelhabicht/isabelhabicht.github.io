@@ -50,10 +50,10 @@
           </a>
         </li>
       {% endif %} 
-      {% if author.bluesky %}
+{% if author.bluesky %}
   <li>
-    <a href="{{ author.bluesky }}" title="Bluesky">
-      <img src="/assets/Bluesky_Logo.svg" alt="Bluesky" width="20" height="20" style="vertical-align: middle; margin-right: 6px;">
+    <a href="{{ author.bluesky }}" title="Bluesky" style="display: flex; align-items: center;">
+      <img src="/assets/Bluesky_Logo.svg" alt="Bluesky" width="20" height="20" style="margin-right: 6px; display: inline-block;">
       Bluesky
     </a>
   </li>

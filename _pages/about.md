@@ -18,7 +18,7 @@ I work at the <a href="https://www.org-soz.uni-wuppertal.de/de/team/detail/habic
 Feel free to <a href="mailto:habicht@uni-wuppertal.de">contact me</a> if you have any questions, comments, or ideas you'd like to share.  
 Looking forward to connecting with fellow researchers, collaborators, and curious minds.  
 <br>
-– Isabel
+– **Isabel**
 <br><br>
 ## News
 

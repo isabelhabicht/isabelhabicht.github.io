@@ -26,24 +26,39 @@ Looking forward to connecting with fellow researchers, collaborators, and curiou
 <br><br>
 ## Bluesky Update
 {% raw %}
-<!-- Bluesky feed embed -->
-<link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css" />
-<div id="embedbsky-com-timeline-embed"></div>
-<script>
-  let containerWidth = 600, containerHeight = 600;
-  const getHtml = async t => {
-    const e = await fetch(t);
-    return 200 !== e.status
-      ? '<p><strong>No feed data could be located</p></strong>'
-      : e.text();
-  };
-  document.addEventListener('DOMContentLoaded', async () => {
-    const t = (new Date).toISOString(),
-          e = document.getElementById('embedbsky-com-timeline-embed');
-   e.style.width = `${containerWidth}px`;
-    e.style.height = `${containerHeight}px`;
-    const n = await getHtml("https://embedbsky.com/feeds/93ead8a4523fd31a6720746cd46e91228d76b84d58f2e0d67227b6c7c79896a4.html?v=" + t);
-    e.innerHTML = n;
-  });
-</script>
+<!-- Responsive Bluesky feed embed -->
+<style>
+  .bsky-embed-container {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  @media screen and (max-width: 600px) {
+    #embedbsky-com-timeline-embed {
+      height: 300px !important; /* Shrink on small screens */
+    }
+  }
+</style>
+
+<div class="bsky-embed-container">
+  <link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css" />
+  <div id="embedbsky-com-timeline-embed"></div>
+  <script>
+    let containerWidth = 100, containerHeight = 400;
+    const getHtml = async t => {
+      const e = await fetch(t);
+      return 200 !== e.status
+        ? '<p><strong>No feed data could be located</p></strong>'
+        : e.text();
+    };
+    document.addEventListener('DOMContentLoaded', async () => {
+      const t = (new Date).toISOString(),
+            e = document.getElementById('embedbsky-com-timeline-embed');
+      e.style.width = "100%";
+      e.style.height = `${containerHeight}px`;
+      const n = await getHtml("https://embedbsky.com/feeds/93ead8a4523fd31a6720746cd46e91228d76b84d58f2e0d67227b6c7c79896a4.html?v=" + t);
+      e.innerHTML = n;
+    });
+  </script>
+</div>
 {% endraw %}

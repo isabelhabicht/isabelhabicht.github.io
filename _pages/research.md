@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Welcome! My research explores how gender and social inequality unfold across different spheres of life. I combine quantitative methods, experimental designs, and comparative approaches to understand how institutions shape individual outcomes in three main areas:
+My research explores how gender and social inequality unfold across different spheres of life. I combine quantitative methods, experimental designs, and comparative approaches to understand how institutions shape individual outcomes in three main areas:
 
 1. [**Work and Family Dynamics**](#work-and-family-dynamics)  
 2. [**Discrimination in the Labor Market**](#discrimination-in-the-labor-market)  

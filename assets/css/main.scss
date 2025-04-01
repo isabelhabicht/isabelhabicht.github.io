@@ -45,3 +45,9 @@ body,
 .page__content {
   font-family: 'Lora', serif !important;
 }
+
+.page__content p {
+  margin-bottom: 1.25em;
+  line-height: 1.6;
+  text-align: justify !important;
+}

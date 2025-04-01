@@ -30,7 +30,7 @@ Looking forward to connecting with fellow researchers, collaborators, and curiou
 <link rel="stylesheet" href="https://embedbsky.com/embedbsky.com-master-min.css" />
 <div id="embedbsky-com-timeline-embed"></div>
 <script>
-  let containerWidth = 0, containerHeight = 100;
+  let containerWidth = 600, containerHeight = 600;
   const getHtml = async t => {
     const e = await fetch(t);
     return 200 !== e.status
@@ -40,7 +40,7 @@ Looking forward to connecting with fellow researchers, collaborators, and curiou
   document.addEventListener('DOMContentLoaded', async () => {
     const t = (new Date).toISOString(),
           e = document.getElementById('embedbsky-com-timeline-embed');
-    e.style.width = "100%";
+   e.style.width = `${containerWidth}px`;
     e.style.height = `${containerHeight}px`;
     const n = await getHtml("https://embedbsky.com/feeds/93ead8a4523fd31a6720746cd46e91228d76b84d58f2e0d67227b6c7c79896a4.html?v=" + t);
     e.innerHTML = n;

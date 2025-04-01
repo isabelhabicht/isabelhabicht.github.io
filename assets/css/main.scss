@@ -48,6 +48,7 @@ body,
   font-family: 'Lora', serif !important;
 }
 
+/* Apply justification globally */
 body p,
 body li,
 .page__content p,
@@ -55,10 +56,24 @@ body li,
 .archive p,
 .archive li,
 .archive__item p,
-.archive__item li {
+.archive__item li,
+.entry-content p,
+.entry-content li,
+.post-content p,
+.post-content li,
+.main p,
+.main li {
   text-align: justify !important;
   line-height: 1.6;
   margin-bottom: 1.25em;
+}
+
+/* Optional: Global font and hyphenation */
+body {
+  font-family: 'Lora', serif !important;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
 }
 
 body {

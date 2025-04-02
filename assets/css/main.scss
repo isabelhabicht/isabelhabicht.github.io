@@ -43,7 +43,6 @@
 /* Apply Lora font site-wide, including nav and sidebar */
 body,
 html,
-h1, h2, h3, h4, h5, h6,
 .page__content,
 .sidebar,
 .sidebar .author__name,
@@ -59,19 +58,15 @@ h1, h2, h3, h4, h5, h6,
 nav,
 a {
   font-family: 'Lora', serif !important;
-  font-weight: 600;
-  letter-spacing: 0.01em;
-  line-height: 1.2;
 }
 
 
-/* h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: 'Lora', serif !important;
   font-weight: 600;
   letter-spacing: 0.01em;
   line-height: 1.2;
 }
-*/
 
 /* Apply justification globally */
 body p,

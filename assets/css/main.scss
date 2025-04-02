@@ -40,11 +40,20 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-html,
+/* Apply Lora to all global and layout elements */
 body,
+html,
 .page__content,
 .archive,
-.archive__item {
+.archive__item,
+.sidebar,
+.masthead,
+.masthead__menu,
+.greedy-nav,
+.greedy-nav__item,
+.site-title,
+.site-nav,
+.site-footer {
   font-family: 'Lora', serif !important;
 }
 

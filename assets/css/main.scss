@@ -40,29 +40,38 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Apply Lora to all global and layout elements */
+/* Apply Lora font site-wide, including nav and sidebar */
 body,
 html,
+h1, h2, h3, h4, h5, h6,
 .page__content,
-.archive,
-.archive__item,
 .sidebar,
+.sidebar .author__name,
+.sidebar .author__bio,
+.sidebar .author__urls,
 .masthead,
-.masthead__menu,
 .greedy-nav,
 .greedy-nav__item,
+.masthead__menu-item,
 .site-title,
+.site-footer,
 .site-nav,
-.site-footer {
-  font-family: 'Lora', serif !important;
-}
-
-h1, h2, h3, h4, h5, h6 {
+nav,
+a {
   font-family: 'Lora', serif !important;
   font-weight: 600;
   letter-spacing: 0.01em;
   line-height: 1.2;
 }
+
+
+/* h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lora', serif !important;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+}
+*/
 
 /* Apply justification globally */
 body p,

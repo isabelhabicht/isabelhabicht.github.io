@@ -66,4 +66,4 @@ If you're attending, feel free to reach out — I’d love to connect!
 </div>
 {% endraw %}
 
-<!-- Das ist ein Kommentar in Markdown -->
+<!-- Without Bluesky Reposts: v=${t}`) -->

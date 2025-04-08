@@ -22,9 +22,12 @@ Looking forward to connecting with fellow researchers, collaborators, and curiou
 <br><br>
 ## News
 
-🗽 I’m excited to be participating in the <a href="https://www.populationassociation.org/paa2025/home" target="_blank">Population Association of America (PAA) 2025 Annual Meeting</a>, which will take place from **April 2–5, 2025**, in Washington, D.C.! If you're attending, feel free to reach out — I’d love to connect.
+🗽 I’m excited to be participating in the <a href="https://www.populationassociation.org/paa2025/home" target="_blank">Population Association of America (PAA) 2025 Annual Meeting</a>, which will take place from <strong>April 2–5, 2025</strong>, in Washington, D.C.!  
+I’ll be presenting my research titled <i>"Justice Principles in the Allocation of Parental Leave Within Couples"</i> — you can find the pre-print <a href="https://osf.io/preprints/osf/nryug_v1" target="_blank">here</a> 📄.  
+If you're attending, feel free to reach out — I’d love to connect!
+
 <br><br>
-## Bluesky Update
+## Bluesky
 {% raw %}
 <!-- Responsive Bluesky feed embed -->
 <style>
@@ -56,9 +59,12 @@ Looking forward to connecting with fellow researchers, collaborators, and curiou
             e = document.getElementById('embedbsky-com-timeline-embed');
       e.style.width = "100%";
       e.style.height = `${containerHeight}px`;
-      const n = await getHtml("https://embedbsky.com/feeds/93ead8a4523fd31a6720746cd46e91228d76b84d58f2e0d67227b6c7c79896a4.html?v=" + t);
+      const n = await getHtml("https://embedbsky.com/feeds/93ead8a4523fd31a6720746cd46e91228d76b84d58f2e0d67227b6c7c79896a4.html?v=" + t); 
       e.innerHTML = n;
     });
   </script>
 </div>
 {% endraw %}
+
+
+{% without Bluesky Reposts: v=${t}`) %}

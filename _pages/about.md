@@ -65,6 +65,3 @@ If you're attending, feel free to reach out — I’d love to connect!
   </script>
 </div>
 {% endraw %}
-
-
-{% without Bluesky Reposts: v=${t}`) %}

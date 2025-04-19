@@ -38,7 +38,7 @@ You can view my most recent study — including hypotheses, methods, and results
 
 What role does parenthood play in shaping labor market outcomes — and does it intersect with gender to create additional barriers? In this meta-analysis, we synthesize existing evidence on hiring discrimination against parents to understand how family roles influence professional opportunities.
 
-### Gender, Parenthood, and Hiring Discrimination: A Meta-Analysis
+### <b> Gender, Parenthood, and Hiring Discrimination: A Meta-Analysis </b>
 
 While field experiments have extensively documented discrimination in hiring — especially by gender and ethnicity — the role of parenthood, particularly when intersecting with gender, has received less attention. This project addresses that gap by synthesizing evidence from 20 correspondence audit studies (n = 208 experimental conditions) on hiring discrimination against parents.
 
@@ -58,23 +58,18 @@ The study investigates:
 
 In a BMBF-funded project with Mark Lutter and Martin Schröder, we created a comprehensive panel dataset of all social scientists and economists at German universities. The goal: understand gendered dynamics in academic careers, from early stages to tenure.
 
-### Who Becomes a Tenured Professor?
+### <b>Who Becomes a Tenured Professor? </b>
 
 We find no significant gender differences in tenure outcomes across most disciplines — contrary to federal statistics suggesting a leaky pipeline. The exception: in economics, women show slightly lower (but statistically insignificant) chances of tenure.
 
-### Who Leaves Academia?
+### <b> Who Leaves Academia? </b>
 
 In sociology, women are more likely to leave academia than men — even when controlling for productivity and CV characteristics.  
 - Women often exit during the pre-doc stage, while men leave more frequently during the post-doc stage.
 - Parenthood plays a role: mothers are more likely to leave than fathers, though this doesn’t fully explain the gender gap in attrition.
 
-### Early Career Barriers
+### <b> Early Career Barriers </b>
 
 In psychology, women face disadvantages in obtaining a habilitation — a key qualification for professorships — independent of parental status or CV strength.  
-
----
-
-**Conclusion**:  
-Gender disparities in academic careers manifest at different stages and in discipline-specific ways. Our research shows that gender inequality must be studied as a cumulative process, not just an endpoint.
 
 ---

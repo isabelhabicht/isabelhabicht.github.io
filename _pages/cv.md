@@ -13,15 +13,26 @@ redirect_from:
   <a href="https://github.com/user-attachments/files/19556134/CV_Habicht_Git.pdf" target="_blank">📄 Tap here to download my CV (PDF)</a></p>
 </div>
 
-<!-- Desktop/tablet: Show embedded CV -->
+<!-- Desktop/tablet: Show embedded CV with scroll -->
 <div class="desktop-only" style="text-align: center;">
   <p>
     📄 <a href="https://github.com/user-attachments/files/19556134/CV_Habicht_Git.pdf" target="_blank">Tap to download my CV (PDF)</a>
   </p>
-  <embed src="https://github.com/user-attachments/files/19556134/CV_Habicht_Git.pdf" type="application/pdf" width="100%" height="1100px" style="border: 1px solid #ccc; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+  <div class="cv-embed-container">
+    <embed src="https://github.com/user-attachments/files/19556134/CV_Habicht_Git.pdf" type="application/pdf" width="100%" height="100%" />
+  </div>
 </div>
 
 <style>
+  .cv-embed-container {
+    width: 100%;
+    max-width: 100%;
+    max-height: 650px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+
   @media screen and (max-width: 768px) {
     .desktop-only {
       display: none;

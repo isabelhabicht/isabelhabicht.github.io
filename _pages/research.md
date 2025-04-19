@@ -18,7 +18,7 @@ My research explores how gender and social inequality unfold across different sp
 
 How do policy structures and labor market institutions influence gendered family decisions? My current research bridges micro-level preferences, meso-level labor market organization, and macro-level welfare regimes to explore how work and family intersect.
 
-### Parental Leave Uptake and Justice Principles
+<h3> ### Parental Leave Uptake and Justice Principles </h3>
 <p>
 To study distributive justice perceptions, I conducted a factorial survey experiment with vignettes that vary partner characteristics (gender, income, occupation, job satisfaction). 
 You can view my most recent study — including hypotheses, methods, and results — in the poster below, presented at the Population Association of America (PAA) conference.

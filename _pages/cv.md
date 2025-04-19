@@ -27,7 +27,7 @@ redirect_from:
   .cv-embed-container {
     width: 100%;
     max-width: 100%;
-    max-height: 650px;
+    max-height: 800px; /* Updated from 650px */
     overflow-y: auto;
     border: 1px solid #ccc;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);

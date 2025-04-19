@@ -19,20 +19,17 @@ My research explores how gender and social inequality unfold across different sp
 How do policy structures and labor market institutions influence gendered family decisions? My current research bridges micro-level preferences, meso-level labor market organization, and macro-level welfare regimes to explore how work and family intersect.
 
 ### Parental Leave Uptake and Justice Principles
+<p>
+To study distributive justice perceptions, I conducted a factorial survey experiment with vignettes that vary partner characteristics (gender, income, occupation, job satisfaction). 
+You can view my most recent study — including hypotheses, methods, and results — in the poster below, presented at the Population Association of America (PAA) conference.
+</p>
 
-My current project investigates how parental leave is fairly allocated between couples in Germany. In 2022, mothers took an average of 11.6 months of parental leave, compared to just 2.8 months for fathers — a gender gap of 76 percentage points.
+<iframe src="/files/Final one.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-To study distributive justice perceptions, I conducted a factorial survey experiment (preregistered on <a href="https://osf.io/87qup" target="_blank">OSF</a>) with vignettes that vary partner characteristics (gender, income, occupation, job satisfaction). The study was fielded in November 2023.
-
-**Preliminary findings**:
-- Respondents supported a nearly equal division: 6.6 months for mothers vs. 5.9 months for fathers.
-- However, the perceived just allocation tolerated an 11 percentage point gap, favoring fathers — suggesting a justice threshold before inequality is seen as unjust.
-
-<br>
-
-<img src="/files/Histogram_rec.png" alt="Histogram of fair parental leave responses" width="500"/>  
-<i>Figure: Responses on the fair allocation of parental leave between wife and husband.</i>
-
+<p>
+📄 <a href="/files/Final one.pdf" target="_blank">Click here to open the poster in a new tab</a>  
+| 🔗 <a href="https://osf.io/87qup" target="_blank">View pre-registration and preprint on OSF</a>
+</p>
 
 
 ---

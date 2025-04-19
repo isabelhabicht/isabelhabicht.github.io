@@ -36,12 +36,9 @@ You can view my most recent study — including hypotheses, methods, and results
 <div class="mobile-only" style="margin-top: 1rem;">
   <p><strong>📱 Viewing on a smartphone?</strong><br>
   <a href="/files/Final one.pdf" target="_blank">📄 Tap here to view the poster</a></p>
-</div>
-
-<p>
-📄 <a href="/files/Final one.pdf" target="_blank">Click here to open the poster in a new tab</a>  
-| 🔗 <a href="https://osf.io/87qup" target="_blank">View pre-registration and preprint on OSF</a>
+  | 🔗 <a href="https://osf.io/87qup" target="_blank">View pre-registration and preprint on OSF</a>
 </p>
+</div>
 
 <style>
   .pdf-container {

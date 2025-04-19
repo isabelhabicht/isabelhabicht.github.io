@@ -16,20 +16,52 @@ My research explores how gender and social inequality unfold across different sp
 
 <h2 id="work-and-family-dynamics">1. Work and Family Dynamics</h2>
 
+<p>
 How do policy structures and labor market institutions influence gendered family decisions? My current research bridges micro-level preferences, meso-level labor market organization, and macro-level welfare regimes to explore how work and family intersect.
+</p>
 
-### <b> Parental Leave Uptake and Justice Principles </b>
+<h3><b>Parental Leave Uptake and Justice Principles</b></h3>
+
 <p>
 To study distributive justice perceptions, I conducted a factorial survey experiment with vignettes that vary partner characteristics (gender, income, occupation, job satisfaction). 
 You can view my most recent study — including hypotheses, methods, and results — in the poster below, presented at the Population Association of America (PAA) conference.
 </p>
 
-<iframe src="/files/Final one.pdf" width="70%" height="500px" style="border: none;"></iframe>
+<div class="pdf-container">
+  <iframe src="/files/Final one.pdf" style="border: none;"></iframe>
+</div>
 
 <p>
 📄 <a href="/files/Final one.pdf" target="_blank">Click here to open the poster in a new tab</a>  
 | 🔗 <a href="https://osf.io/87qup" target="_blank">View pre-registration and preprint on OSF</a>
 </p>
+
+<style>
+  .pdf-container {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .pdf-container iframe {
+    width: 70%;
+    height: 500px;
+  }
+
+  @media screen and (max-width: 768px) {
+    .pdf-container iframe {
+      width: 100%;
+      height: 450px;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    .pdf-container iframe {
+      width: 100%;
+      height: 400px;
+    }
+  }
+</style>
+
 
 
 ---

@@ -24,7 +24,7 @@ To study distributive justice perceptions, I conducted a factorial survey experi
 You can view my most recent study — including hypotheses, methods, and results — in the poster below, presented at the Population Association of America (PAA) conference.
 </p>
 
-<iframe src="/files/Final one.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="/files/Final one.pdf" width="50%" height="400px" style="border: none;"></iframe>
 
 <p>
 📄 <a href="/files/Final one.pdf" target="_blank">Click here to open the poster in a new tab</a>  
@@ -48,8 +48,7 @@ The study investigates:
 - How discrimination varies by national family policies, occupational characteristics, and time.
 
 **Preliminary findings**:
-- Hiring discrimination against parents — particularly mothers — has declined over time and is no longer statistically significant in the most recent studies.
-
+Hiring discrimination against parents — particularly mothers — has declined over time and is no longer statistically significant in the most recent studies.
 
 
 ---

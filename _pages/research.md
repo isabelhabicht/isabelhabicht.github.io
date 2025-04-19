@@ -24,7 +24,7 @@ To study distributive justice perceptions, I conducted a factorial survey experi
 You can view my most recent study — including hypotheses, methods, and results — in the poster below, presented at the Population Association of America (PAA) conference.
 </p>
 
-<iframe src="/files/Final one.pdf" width="50%" height="400px" style="border: none;"></iframe>
+<iframe src="/files/Final one.pdf" width="70%" height="500px" style="border: none;"></iframe>
 
 <p>
 📄 <a href="/files/Final one.pdf" target="_blank">Click here to open the poster in a new tab</a>  

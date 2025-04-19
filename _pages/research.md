@@ -13,7 +13,6 @@ My research explores how gender and social inequality unfold across different sp
 
 
 ---
-
 <h2 id="work-and-family-dynamics">1. Work and Family Dynamics</h2>
 
 <p>
@@ -36,9 +35,18 @@ You can view my most recent study — including hypotheses, methods, and results
 <div class="mobile-only" style="margin-top: 1rem;">
   <p><strong>📱 Viewing on a smartphone?</strong><br>
   <a href="/files/Final one.pdf" target="_blank">📄 Tap here to view the poster</a></p>
-  | 🔗 <a href="https://osf.io/87qup" target="_blank">View pre-registration and preprint on OSF</a>
-</p>
 </div>
+
+<!-- Show this only on desktop -->
+<p class="desktop-only">
+📄 <a href="/files/Final one.pdf" target="_blank">Click here to open the poster in a new tab</a>  
+| 🔗 <a href="https://osf.io/87qup" target="_blank">View pre-registration and preprint on OSF</a>
+</p>
+
+<!-- OSF link always visible -->
+<p class="mobile-only">
+🔗 <a href="https://osf.io/87qup" target="_blank">View pre-registration and preprint on OSF</a>
+</p>
 
 <style>
   .pdf-container {
@@ -63,13 +71,14 @@ You can view my most recent study — including hypotheses, methods, and results
   }
 </style>
 
+
 ---
 
 <h2 id="discrimination-in-the-labor-market">2. Discrimination in the Labor Market</h2>
 
 What role does parenthood play in shaping labor market outcomes — and does it intersect with gender to create additional barriers? In this meta-analysis, we synthesize existing evidence on hiring discrimination against parents to understand how family roles influence professional opportunities.
 
-### <b> Gender, Parenthood, and Hiring Discrimination: A Meta-Analysis </b>
+<h3><b>Gender, Parenthood, and Hiring Discrimination: A Meta-Analysis</b></h3>
 
 While field experiments have extensively documented discrimination in hiring — especially by gender and ethnicity — the role of parenthood, particularly when intersecting with gender, has received less attention. This project addresses that gap by synthesizing evidence from 20 correspondence audit studies (n = 208 experimental conditions) on hiring discrimination against parents.
 
@@ -88,18 +97,17 @@ Hiring discrimination against parents — particularly mothers — has declined 
 
 In a BMBF-funded project with Mark Lutter and Martin Schröder, we created a comprehensive panel dataset of all social scientists and economists at German universities. The goal: understand gendered dynamics in academic careers, from early stages to tenure.
 
-### <b>Who Becomes a Tenured Professor? </b>
 
+<h3><b>Who Becomes a Tenured Professor?</b></h3>
 We find no significant gender differences in tenure outcomes across most disciplines — contrary to federal statistics suggesting a leaky pipeline. The exception: in economics, women show slightly lower (but statistically insignificant) chances of tenure.
 
-### <b> Who Leaves Academia? </b>
-
+<h3><b>Who Leaves Academia?</b></h3>
 In sociology, women are more likely to leave academia than men — even when controlling for productivity and CV characteristics.  
 - Women often exit during the pre-doc stage, while men leave more frequently during the post-doc stage.
 - Parenthood plays a role: mothers are more likely to leave than fathers, though this doesn’t fully explain the gender gap in attrition.
 
-### <b> Early Career Barriers </b>
 
+<h3><b>Early Career Barriers</b></h3>
 In psychology, women face disadvantages in obtaining a habilitation — a key qualification for professorships — independent of parental status or CV strength.  
 
 ---

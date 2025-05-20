@@ -40,12 +40,14 @@ You can view my most recent study — including hypotheses, methods, and results
 <!-- Show this only on desktop -->
 <p class="desktop-only">
 📄 <a href="/files/Final one.pdf" target="_blank">Click here to open the poster in a new tab</a>  
-| 🔗 <a href="https://osf.io/87qup" target="_blank">View pre-registration and preprint on OSF</a>
+| 🔗 <a href="https://osf.io/87qup" target="_blank">View pre-registration</a> and <a href="https://osf.io/preprints/osf/nryug_v1" target" target="_blank">preprint on OSF</a> 📄
+
+   
 </p>
 
 <!-- OSF link always visible -->
 <p class="mobile-only">
-🔗 <a href="https://osf.io/87qup" target="_blank">View pre-registration and preprint on OSF</a>
+🔗 <a href="https://osf.io/87qup" target="_blank">View pre-registration</a> and <a href="https://osf.io/preprints/osf/nryug_v1" target" target="_blank">preprint on OSF</a> 📄
 </p>
 
 <style>

@@ -22,8 +22,8 @@ Looking forward to connecting with fellow researchers, collaborators, and curiou
 <br><br>
 ## News
 
-🗽 I’m excited to be participating in the <a href="https://www.populationassociation.org/paa2025/home" target="_blank">Population Association of America (PAA) 2025 Annual Meeting</a>, which will take place from <strong>April 2–5, 2025</strong>, in Washington, D.C.!  
-I’ll be presenting my research titled <i>"Justice Principles in the Allocation of Parental Leave Within Couples"</i> — you can find the pre-print <a href="https://osf.io/preprints/osf/nryug_v1" target="_blank">here</a> 📄.  
+🗽 I’m excited to be participating in the <a href="https://www.populationassociation.org/paa2025/home" target="_blank">2025 INAS Conference</a>, which will take place from <strong>June 4–6, 2025</strong>, in NYC!  
+I’ll be presenting my research titled <i>"Who leaves academia? Gender differences in the field of German sociology"</i>.  
 If you're attending, feel free to reach out — I’d love to connect!
 
 <br><br>

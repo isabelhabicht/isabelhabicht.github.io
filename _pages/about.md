@@ -24,14 +24,14 @@ Looking forward to connecting with fellow researchers, collaborators, and curiou
 
 I’m excited to be participating in the upcoming conferences this year to present my current research:
 
-🇪🇺 I’ll be at the <a href="https://uni-koeln.converia.de/frontend/index.php?folder_id=549&page_id=" target="_blank">2025 Annual Conference of the European Consortium for Sociological Research (ECSR)</a>, taking place from <strong>September 3–5, 2025</strong>, in Cologne.
+🇩🇪 I’ll be at the <a href="https://uni-koeln.converia.de/frontend/index.php?folder_id=549&page_id=" target="_blank">2025 Annual Conference of the European Consortium for Sociological Research (ECSR)</a>, taking place from <strong>September 3–5, 2025</strong>, in Cologne, Germany.
 I’ll present my poster titled <i>"Gender, Parenthood, and Labor Market Discrimination: A Meta-Analysis"</i>.
 
 🇩🇪 I’ll also take part in the <a href="https://kongress2025.soziologie.de/" target="_blank">42nd Congress of the German Sociological Association (DGS)</a>, held at the University of Duisburg-Essen from <strong>September 22–26, 2025</strong>.
 My presentation is titled <i>"Justice Principles in the Allocation of Parental Leave Within Couples"</i>.
 
-Looking forward to joining the <a href="https://kti.krtk.hu/en/rct-workshop/" target="_blank">7th Workshop on Experiments in Social-Science Research</a> in Budapest, from <strong>September 18–19, 2025</strong>.
-I’ll present an experimental research design <i>"Parenthood and Gender Bias in Hiring: Experimental Evidence from the German Labor Market"</i>.
+🇭🇺 Looking forward to joining the <a href="https://kti.krtk.hu/en/rct-workshop/" target="_blank">7th Workshop on Experiments in Social-Science Research</a> in Budapest, Hungary, from <strong>September 18–19, 2025</strong>.
+I’ll present my experimental research design <i>"Parenthood and Gender Bias in Hiring: Experimental Evidence from the German Labor Market"</i>.
 
 If you're attending, feel free to reach out — I’d love to connect!
 

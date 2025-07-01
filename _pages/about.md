@@ -33,6 +33,9 @@ My presentation is titled <i>"Justice Principles in the Allocation of Parental L
 🇭🇺 Looking forward to joining the <a href="https://kti.krtk.hu/en/rct-workshop/" target="_blank">7th Workshop on Experiments in Social-Science Research</a> in Budapest, Hungary, from <strong>September 18–19, 2025</strong>.
 I’ll present my experimental research design <i>"Parenthood and Gender Bias in Hiring: Experimental Evidence from the German Labor Market"</i>.
 
+🇩🇪 I’m also excited to present at the <a href="https://as25.sociology.uni-mainz.de/" target="_blank">5th Conference of the Academy of Sociology (AS)</a>, taking place at Johannes Gutenberg University Mainz (Germany) from <strong>October 8–10, 2025</strong>.
+My contribution is titled <i>"Gender, Parenthood, and Labor Market Discrimination: A Meta-Analysis"</i>.
+
 If you're attending, feel free to reach out — I’d love to connect!
 
 <br><br>

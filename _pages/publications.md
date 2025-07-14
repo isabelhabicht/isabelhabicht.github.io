@@ -29,6 +29,10 @@ Lutter, M., <b>Habicht, I. M.</b>, & Schröder, M. (2022). Gender differences in
 Schröder, M., Lutter, M., & <b>Habicht, I. M.</b> (2021). Publishing, signaling, social capital, and gender: Determinants of becoming a tenured professor in German political science. <i>PLOS ONE</i>, 16(1), e0243514. <a href="https://doi.org/10.1371/journal.pone.0243514">DOI</a> & <a href="https://osf.io/afrxk/">Data</a>.
 <br><br>
 <h2>Work in progress</h2>
+<b>Habicht, Isabel M.</b>, Mark Lutter, and Martin Schröder: <i>Why women leave academia: A longitudinal study of the leaky pipeline in German sociology.</i>  
+<a href="https://osf.io/preprints/osf/8y2fs_v1" target="_blank">Preprint</a>.
+<br>
+<br>
 <b>Habicht, Isabel M.</b>: Justice Principles in the Allocation of Parental Leave Within Couples.  
 <a href="https://osf.io/8krjc/" target="_blank">Preregistration</a> & <a href="https://osf.io/preprints/osf/nryug_v1" target="_blank">Preprint</a>.
 <br>

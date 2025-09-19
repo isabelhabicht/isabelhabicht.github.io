@@ -34,7 +34,7 @@ Schröder, M., Lutter, M., & <b>Habicht, I. M.</b> (2021). Publishing, signaling
 <br>
 <br>
 <b>Habicht, Isabel M.</b>: Justice Principles in the Allocation of Parental Leave Within Couples.  
-<a href="https://osf.io/8krjc/" target="_blank">Preregistration</a> & <a href="https://osf.io/preprints/osf/nryug_v1" target="_blank">Preprint</a>.
+<a href="https://osf.io/8krjc/" target="_blank">Preregistration</a> & <a href="https://osf.io/preprints/osf/nryug_v2" target="_blank">Preprint</a>.
 <br>
 <br>
 <b>Habicht, Isabel M.</b>: How do policy regimes foster (wo)men’s work-family preferences as reflected in parental leave decisions? <i>JFK Memorial Fellowship at the Center for European Studies (CES) at Harvard University in 2024/2025.</i>

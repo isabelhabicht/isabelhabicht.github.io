@@ -20,7 +20,7 @@ I work at the <a href="https://www.org-soz.uni-wuppertal.de/de/team/detail/habic
 <strong>Institute for Analytical Sociology (IAS)</strong> at <strong>Linköping University</strong>, 
 where I further develop my research on women and mothers in the labor market:  
 <i>Do employers practice what they preach? Parenthood bias in hiring, self-presentation, and self-perception in Germany.</i>
-</div>
+</div> 
 <br><br>
 Feel free to <a href="mailto:habicht@uni-wuppertal.de">contact me</a> if you have any questions, comments, or ideas you'd like to share.  
 Looking forward to connecting with fellow researchers, collaborators, and curious minds.  

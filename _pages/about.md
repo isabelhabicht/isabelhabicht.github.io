@@ -15,6 +15,9 @@ You can explore some of my <a href="https://isabelhabicht.github.io/research/">o
 <br><br>
 I work at the <a href="https://www.org-soz.uni-wuppertal.de/de/team/detail/habicht/">University of Wuppertal</a> as *Akademische Rätin* for quantitative methods. In 2024/2025, I was on academic leave as <strong>JFK Memorial Fellow</strong> at the <a href="https://ces.fas.harvard.edu/people/isabel-habicht">Minda de Gunzburg Center for European Studies (CES)</a> at Harvard University. At CES, I examined the research question: <i>"How do policy regimes foster (wo)men's work-family preferences as reflected in parental leave decisions?"</i>
 <br><br>
+<strong>NEWS:</strong> I am currently (February–March 2026) a <strong>Visiting Fellow</strong> at the <strong>Institute for Analytical Sociology (IAS)</strong> at <strong>Linköping University</strong>, where I further develop my research on women and mothers in the labor market:
+<i>Do employers practice what they preach? Parenthood bias in hiring, self-presentation, and self-perception in Germany.</i>
+<br><br>
 Feel free to <a href="mailto:habicht@uni-wuppertal.de">contact me</a> if you have any questions, comments, or ideas you'd like to share.  
 Looking forward to connecting with fellow researchers, collaborators, and curious minds.  
 <br>

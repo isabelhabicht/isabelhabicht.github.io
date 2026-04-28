@@ -13,7 +13,8 @@ Currently, I am also student advisor for Sociology and Social Sciences and a mem
 | Spring    | 2026   | Research Seminar: Literature Review, Research Question, and Research Design (M.A.), together with Laura Behrmann
 | Spring    | 2026   | Introduction in R (B.A.)
 | Fall    | 2025   | Applied regression analysis in R (B.A.)                        |
-| Fall    | 2025   | Applied regression analysis in R (B.A.)                    |
+| Fall    | 2025   | Applied regression analysis in R (B.A.)  |
+| Fall    | 2025   | Lecture: Sociology of Science (B.A.), together with Thomas Heinze & Arlette Jappe  |
 | Fall      | 2025   | Advanced quantitative and qualitative methods (M.A.), together with Laura Behrmann                   |
 | Spring    | 2024   | Introduction in R (B.A.)
 | Spring    | 2023   | [Applied regression analysis (B.A.)](https://github.com/isabelhabicht/isabelhabicht.github.io/files/13809076/Syllabus_Angewandte.Regressionsanalysen.pdf)                          |

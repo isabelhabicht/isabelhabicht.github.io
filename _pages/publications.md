@@ -9,6 +9,9 @@ author_profile: true
 <i>You can find the replication files of my articles as well as preregistrations of my studies on <a href="https://osf.io/b4mpr/">OSF</a>.</i>
 <br>
 <br>
+<b>Habicht, I. M.</b>, Lutter, M., & Schröder, M. (2026). Why women leave academia: A longitudinal study of the leaky pipeline in German sociology. <i>Higher Education</i>. <a href="https://doi.org/10.1007/s10734-026-01634-0">DOI</a>.
+
+<b>Habicht, I. M.</b>, & Tisch, D. (2026). Rethinking gender and other seemingly nonmanipulable characteristics for causal analysis. <i>Kölner Zeitschrift für Soziologie und Sozialpsychologie</i>. <a href="https://doi.org/10.1007/s11577-026-01054-z">DOI</a>.
 
 Heinze, T., <b>Habicht, I. M.</b>, Eberhardt, P., & Tunger, D. (2025). Field size as a predictor of “excellence.” The selection of subject fields in Germany’s Excellence Initiative. <i>PLOS ONE</i>, 20(3), e0300828. <a href="https://doi.org/10.1371/journal.pone.0300828">DOI</a> & <a href="https://osf.io/qf6z2/">Data</a>.
 

@@ -15,7 +15,7 @@ You can explore some of my <a href="https://isabelhabicht.github.io/research/">o
 <br>
 
 <p>
-I am currently serving as <strong><a href="https://www.mwi.uni-heidelberg.de/de/newsroom/dr-isabel-m-habicht-uebernimmt-im-wintersemester-20262027-die-vertretung-der-professur-fuer">Interim Professor of Comparative Social Stratification</a></strong> (<i>Vergleichende Sozialstrukturanalyse</i>) at Heidelberg University (winter semester 2026/27).
+I am currently holding an <strong><a href="https://www.mwi.uni-heidelberg.de/de/newsroom/dr-isabel-m-habicht-uebernimmt-im-wintersemester-20262027-die-vertretung-der-professur-fuer">Interim Professorship in Comparative Social Stratification</a></strong> (<i>Vergleichende Sozialstrukturanalyse</i>) at Heidelberg University (winter semester 2026/27).
  Outside of this appointment, I work as <i>Akademische Rätin</i> in Quantitative Methods at the <a href="https://www.org-soz.uni-wuppertal.de/de/team/detail/habicht/">University of Wuppertal</a>.
 </p>
 <p>

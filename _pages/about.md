@@ -12,8 +12,15 @@ As a *social scientist* driven by a fascination for data and quantitative method
 <br><br>
 My work has appeared in leading journals such as <i>PLOS ONE</i>, <i>Research Policy</i>, <i>Higher Education</i>, <i>Scientometrics</i>, <i>Studies in Higher Education</i>, and <i>Frontiers in Sociology</i>, among others. 
 You can explore some of my <a href="https://isabelhabicht.github.io/research/">ongoing work here</a>, and browse my <a href="https://isabelhabicht.github.io/publications/">published articles here</a>. 
-<br><br>
-I work at the <a href="https://www.org-soz.uni-wuppertal.de/de/team/detail/habicht/">University of Wuppertal</a> as <i>Akademische Rätin</i> for quantitative methods. In 2024/2025, I was as <strong>JFK Memorial Fellow</strong> at the <a href="https://ces.fas.harvard.edu/people/isabel-habicht">Minda de Gunzburg Center for European Studies (CES)</a> at Harvard University. At CES, I examined the research question: <i>"How do policy regimes foster (wo)men's work-family preferences as reflected in parental leave decisions?"</i> 
+<br>
+
+<p>
+I am currently serving as <strong><a href="https://www.mwi.uni-heidelberg.de/de/newsroom/dr-isabel-m-habicht-uebernimmt-im-wintersemester-20262027-die-vertretung-der-professur-fuer">Interim Professor of Comparative Social Stratification</a></strong> (<i>Vergleichende Sozialstrukturanalyse</i>) at Heidelberg University (winter semester 2026/27).
+ Outside of this appointment, I work as <i>Akademische Rätin</i> in Quantitative Methods at the <a href="https://www.org-soz.uni-wuppertal.de/de/team/detail/habicht/">University of Wuppertal</a>.
+</p>
+<p>
+In 2024/2025, I was a <strong>JFK Memorial Fellow</strong> at the <a href="https://ces.fas.harvard.edu/people/isabel-habicht">Minda de Gunzburg Center for European Studies (CES)</a> at Harvard University. During my fellowship, I examined the research question: <i>"How do policy regimes foster (wo)men's work-family preferences as reflected in parental leave decisions?"</i>
+</p>
 
 In early 2026 (February–March), I was a <strong>SweCSS Junior Fellow</strong> at the <a href="https://liu.se/en/organisation/liu/iei/ias">Institute for Analytical Sociology (IAS)</a> at Linköping University, where I further developed a field experiment on women and mothers in the labor market.
 <br><br>
